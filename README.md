@@ -1,4 +1,4 @@
-# [TeleDiamond](https://telegram.me/antispamandhack)
+# [BangTG](https://telegram.me/tele_bang)
 
 l antispam system with custom sensitivity for each group**
 * **Multiple realms (admin groups)**

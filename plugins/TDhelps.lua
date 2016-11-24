@@ -2,7 +2,7 @@ local function run(msg, matches)
 local telediamondsudo = [[
 ➖➖➖➖➖➖➖
 》Sudo Help
-》for TeleDiamon
+》for BangTG
 ➖➖➖➖➖➖➖
 💢!add
 ❔نصب ربات در گروه
